@@ -3,55 +3,94 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
-<p align="center" style="font-family: 'Arial', sans-serif; color: #34495E;">
-    <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=Programador%20Autodidacta;Siempre%20aprendiendo%20cosas%20nuevas&center=true&width=380&height=45"></a>
-</p>
 
-<h3 align="center" style="font-family: 'Courier New', monospace; color: #16A085;">
-    <samp>&gt; ¡Hola!, soy 
-        <b><a target="_blank" href="#" style="color: #2980B9;">Diego Suarez</a></b>
-    </samp>
-</h3>
+<!-- Imagen final -->
+<div align="center" style="margin-top: 20px;">
+    <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat" height="200">
+</div>
 
-<p align="center" style="font-family: 'Courier New', monospace; color: #7F8C8D;"> 
-    <samp>
-        Soy un desarrollador de aplicaciones web 
-    </samp>
-</p>
+<!-- Introducción con animación -->
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hola,+soy+Diego+Suarez+%F0%9F%91%8B;Desarrollador+Autodidacta;Amante+de+la+Tecnología+y+Programación" alt="Introducción" />
+</div>
 
+<!-- Sobre mí -->
+<h2 align="center">
+    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" alt="About Me Icon">
+    Sobre mí
+</h2>
+
+<img align="right" width="300px" alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+
+- **Pronombres**: He/His, o TeamMaker 😉  
+- Actualmente desarrollando **Paycron** en **Plaxonic**  
+- Aprendiendo **ReactJS** y **NodeJS**  
+- Abierto a colaborar en proyectos de **código abierto**  
+- Publico artículos en [GeeksforGeeks](https://auth.geeksforgeeks.org/user/akash_chowrasia/articles)  
+- Escribo código en [leetcode](https://leetcode.com/Akash_Chowrasia/)  
+- Curiosidad: *En situaciones de estrés, suelo programar medio dormido* 😴  
+
+<!-- Conectar conmigo -->
+<h2 align="center">Conectar conmigo 🤝</h2>
 <p align="center">
-   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Diego Suarez" style="border-radius: 5px;"/>
-   </a>
+    <a href="https://www.linkedin.com/in/diego-suarez" target="_blank">
+        <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" alt="LinkedIn" />
+    </a>
+    <a href="https://twitter.com/DiegoSuarez" target="_blank">
+        <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg" alt="Twitter" />
+    </a>
+    <a href="https://medium.com/@diegosuarez" target="_blank">
+        <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg" alt="Medium" />
+    </a>
+    <a href="https://github.com/Suarez099" target="_blank">
+        <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="GitHub" />
+    </a>
 </p>
-<br />
 
-## Sobre mí
-
-<p style="font-family: 'Arial', sans-serif; color: #2C3E50;">
-
-❤️ &emsp; Amo escribir código y aprender nuevas características<br/>
-📧 &emsp; Contáctame en cualquier momento: suarezdiego4567@gmail.com<br/>
-
+<!-- Proyectos destacados -->
+<h2 align="center">Algunos de mis Proyectos 🎨</h2>
+<p align="center">
+    <a href="https://github.com/Suarez099/E-Commerce-Backend">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suarez099&repo=E-Commerce-Backend&theme=tokyonight" alt="Proyecto E-Commerce Backend">
+    </a>
+    <a href="https://github.com/Suarez099/E-Commerce-Frontend">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suarez099&repo=E-Commerce-Frontend&theme=tokyonight" alt="Proyecto E-Commerce Frontend">
+    </a>
+    <a href="https://github.com/Suarez099/porfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suarez099&repo=porfolio&theme=tokyonight" alt="Proyecto Portafolio">
+    </a>
 </p>
 
-## Tecnologías que uso
+<!-- Tecnologías -->
+<div align="center">
+    <h2>Tecnologías que manejo 👨🏻‍💻</h2>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,css,docker,postgres,prisma,express,figma,github,html,js,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,react,tailwind,ts,vscode,php,symfony&perline=8" />
+    </a>
+</div>
 
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<!-- Trofeos -->
+<div align="center" style="margin-top: 20px;">
+    <a href="https://github.com/Suarez099" title="Go to Source">
+        <img src="https://github-profile-trophy.vercel.app/?username=Suarez099&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" style="max-width: 100%; height: auto;" />
+    </a>
+</div>
 
 
+<!-- Estadísticas de GitHub -->
+<table align="center" style="width: 100%; max-width: 800px; margin-top: 20px;">
+    <tr>
+        <td align="center">
+            <img src="https://github-readme-stats.vercel.app/api?username=Suarez099&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" style="max-width: 100%;">
+        </td>
+        <td align="center">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suarez099&theme=tokyonight" alt="Racha de contribuciones" style="max-width: 100%;">
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suarez099&theme=tokyonight" alt="Lenguajes más usados" style="max-width: 100%;">
+        </td>
+    </tr>
+</table>
 
-## Mis proyectos destacados
-
-<p align="left">
-    <a href="#" target="_blank"><img alt="Todos los repositorios" title="Todos los repositorios" src="https://img.shields.io/badge/-Todos%20los%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
